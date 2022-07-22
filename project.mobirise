@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-07_2016",
-    "currentPage": "collection.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -48,7 +48,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "index.html": {
+    "noindex.html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -671,9 +671,9 @@
         }
       ]
     },
-    "collection.html": {
+    "index.html": {
       "settings": {
-        "title": "Collection",
+        "title": "Aleph Collection",
         "order": 1
       },
       "components": [
